@@ -23,5 +23,3 @@
 Control Model used - [DionTimmer](https://huggingface.co/DionTimmer/controlnet_qrcode-control_v1p_sd15)
 
 Stable Diffusion Model used - [GhostMix](https://huggingface.co/digiplay/GhostMixV1.2VAE)
-
-A Special Mention to [Abhishek Thakur](https://www.linkedin.com/in/abhi1thakur/), I used his video as reference to generate these outputs.
