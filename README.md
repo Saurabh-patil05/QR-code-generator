@@ -15,7 +15,7 @@
 1. Generate a QRCode with the URL you want to Embed?
 2. Load the Pretrained Control Net QR Code Model
 3. Setup the Control Net pipeline with the pretrained model
-4. Provide Prompts and Negative Prompts for how the QRcode should look like
+4. Provide Prompts and Negative Prompts for how the QRcode should look like.
 5. Run the Pipeline with different hyperparameters and prompts.
 
 ## Acknowledgement
