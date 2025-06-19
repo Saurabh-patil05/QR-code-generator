@@ -16,7 +16,7 @@
 2. Load the Pretrained Control Net QR Code Model
 3. Setup the Control Net pipeline with the pretrained model
 4. Provide Prompts and Negative Prompts for how the QRcode should look like
-5. Run the Pipeline with different hyperparameters and prompts.
+5. Run the Pipeline with different hyperparameters and prompts
 
 ## Acknowledgement
 
